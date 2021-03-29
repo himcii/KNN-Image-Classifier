@@ -1,9 +1,3 @@
-"""
-DSC 20 Mid-Quarter Project
-Name: Zuo Xiaotong
-PID:  A15445495
-"""
-
 # Part 1: RGB Image #
 class RGBImage:
     """
